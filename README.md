@@ -5,11 +5,12 @@ Keep your likeness, clothes, and favorite accessories. Get a little poteto for y
 
 [Make your poteto](https://potetopfp.com/) · [How it works](docs/architecture.md) · [Validation and limits](docs/validation.md)
 
-## inspired by [@poteto](https://x.com/poteto)
+## inspired by [@poteto](https://github.com/poteto)
 
-<a href="https://x.com/poteto"><img src="assets/original-poteto.jpg" alt="Lauren’s original Poteto avatar, holding a roasted sweet potato." width="250"></a>
+<a href="https://github.com/poteto"><img src="assets/original-poteto.jpg" alt="Lauren’s original Poteto avatar, holding a roasted sweet potato." width="250"></a>
 
 **lauren’s original poteto.** the inspiration behind this little fan project.
+find her on [github](https://github.com/poteto) and [x](https://x.com/poteto).
 Her original stays unique; the app makes a new portrait of each uploaded subject.
 
 <img src="assets/potetopfp-launch.png" alt="Promotional scrapbook artwork for potetopfp, showing cozy chibi characters with sweet potatoes and the website address." width="100%">
@@ -67,7 +68,7 @@ This presentation repository has no local app setup. Use the hosted app to try t
 
 ## Credits
 
-Inspired by [@poteto](https://x.com/poteto). This is an unofficial fan project.
+Inspired by Lauren, [@poteto on GitHub](https://github.com/poteto) and [X](https://x.com/poteto). This is an unofficial fan project.
 Built by [Erick Benitez-Ramos](https://github.com/erickb336).
 The original Poteto has a separate credit on the website; the generator creates a new depiction of the uploaded subject.
 
