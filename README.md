@@ -21,6 +21,12 @@ This repository presents the project, its design, and accepted example portraits
 The first batch is free, with **100 successful portraits** available and **no sign-in**. The site shows the current count.
 Optional tips help fund future batches. They do not reserve a portrait or reopen a full batch.
 
+## The live site
+
+<img src="assets/site-desktop.jpg" alt="The live Potetopfp website with its successful-portrait counter, original Poteto credit, upload box, and scrapbook showcase." width="100%">
+
+Live website capture from the GitHub soft launch. The counter changes as portraits finish.
+
 ## The experience
 
 - One clear person, character, or animal becomes one square portrait.
