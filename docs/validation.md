@@ -50,5 +50,5 @@ The deployed JavaScript, styles, and changed portraits matched the checked local
 - Stripe checkout opened correctly, but no real tip payment or payout was completed during QA.
 - Browser checks do not replace testing every phone, camera, or assistive technology.
 
-The free batch remains limited to 100 successful portraits, subject to the $40 application AI allowance.
+The free batch remains limited to 100 successful portraits.
 Any later increase or new batch requires the owner's decision.

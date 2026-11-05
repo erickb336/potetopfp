@@ -5,6 +5,13 @@ Keep your likeness, clothes, and favorite accessories. Get a little poteto for y
 
 [Make your poteto](https://potetopfp.com/) · [How it works](docs/architecture.md) · [Validation and limits](docs/validation.md)
 
+## inspired by [@poteto](https://x.com/poteto)
+
+<a href="https://x.com/poteto"><img src="assets/original-poteto.jpg" alt="Lauren’s original Poteto avatar, holding a roasted sweet potato." width="250"></a>
+
+**lauren’s original poteto.** the inspiration behind this little fan project.
+Her original stays unique; the app makes a new portrait of each uploaded subject.
+
 <img src="assets/potetopfp-launch.png" alt="Promotional scrapbook artwork for potetopfp, showing cozy chibi characters with sweet potatoes and the website address." width="100%">
 
 Launch artwork. The actual accepted portraits appear below.
@@ -53,8 +60,7 @@ The app uses Cloudflare Workers, Durable Objects, private R2 storage, and a priv
 The server controls the generation recipe and provider credentials. Browser requests cannot select the prompt or model.
 The pipeline checks the subject before generation and reviews the result before delivery.
 
-The launch uses a 100-success cap and a $40 application AI allowance. The funding limit can pause the batch before all places are used.
-Application accounting is a spending control, not a guarantee of the final provider invoice.
+The first batch is limited to 100 successful portraits. Tips help support future batches.
 
 See the [architecture](docs/architecture.md) for the flow and the [validation record](docs/validation.md) for what was checked.
 This presentation repository has no local app setup. Use the hosted app to try the product.

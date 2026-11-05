@@ -37,7 +37,7 @@ A scene without a clear person, character, or animal receives an explanation ins
 The result check covers likeness, wardrobe, the sweet potato, illustration style, framing, and similarity to the protected original.
 These checks reduce mistakes; they cannot guarantee artistic quality, likeness, or originality in every result.
 
-The first paid request reserves room under the batch and AI allowance. Queued work does not count as a successful portrait.
+Each admitted request reserves room in the batch. Queued work does not count as a successful portrait.
 Only delivered portraits advance the public progress bar. Tips do not change that count or reopen the batch.
 
 ## Recovery and cleanup
