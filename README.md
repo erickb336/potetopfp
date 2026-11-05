@@ -13,9 +13,9 @@ Keep your likeness, clothes, and favorite accessories. Get a little poteto for y
 find her on [github](https://github.com/poteto) and [x](https://x.com/poteto).
 Her original stays unique; the app makes a new portrait of each uploaded subject.
 
-<img src="assets/potetopfp-launch.png" alt="Promotional scrapbook artwork for potetopfp, showing cozy chibi characters with sweet potatoes and the website address." width="100%">
+<img src="assets/potetopfp-launch-originals.png" alt="Potetopfp launch poster with five accepted example portraits, the website address, and a small original Poteto inspiration card." width="100%">
 
-Launch artwork. The actual accepted portraits appear below.
+Launch artwork composed from the original avatar and accepted example portraits, without redrawing them.
 
 This repository presents the project, its design, and accepted example portraits. The hosted app is at **[potetopfp.com](https://potetopfp.com/)**.
 
